@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza Shaikh</h1>
-<h3 align="center">Front-End Web Developer 👨‍💻</h3>
+<h3 align="center">Front-End Developer 👨‍💻</h3>
 
 - 📫 Reach me **Ahmedraza6100@gmail.com**
 
-- 📞 **+92 335-2645820**
+- 📞 **+92 335-2645829**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@runtimecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@runtimecoder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucax7k2y42foqquidzyl8o1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucax7k2y42foqquidzyl8o1w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
