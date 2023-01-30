@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza Shaikh</h1>
-<h3 align="center">Front-End Developer 👨‍💻</h3>
+<h3 align="center">Front-End Web Developer 👨‍💻</h3>
 
 - 📫 Reach me **Ahmedraza6100@gmail.com**
 
