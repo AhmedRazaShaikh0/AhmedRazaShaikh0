@@ -3,7 +3,7 @@
 
 - 📫 Reach me **Ahmedraza6100@gmail.com**
 
-- 📞 **+92 335-2645829**
+- 📞 **+92 335-2645820**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
