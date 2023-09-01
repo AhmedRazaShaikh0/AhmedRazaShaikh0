@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza Shaikh</h1>
 <h3 align="center">Front-End Web Developer 👨‍💻</h3>
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+
 - 📫 Reach me **Ahmedraza6100@gmail.com**
 
 - 📞 **+92 335-2645820**
