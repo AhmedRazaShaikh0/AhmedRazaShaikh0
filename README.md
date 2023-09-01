@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza Shaikh</h1>
-<h3 align="center">Front-End Web Developer 👨‍💻</h3>
+<h3 align="center">Full-Stack Developer 👨‍💻</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmedrazashaikh0&theme=discord)](https://github.com/ahmedrazashaikh0/github-profile-trophy)
 
