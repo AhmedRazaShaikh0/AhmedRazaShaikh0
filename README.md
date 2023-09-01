@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza Shaikh</h1>
 <h3 align="center">Full-Stack Developer 👨‍💻</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedrazashaikh0&theme=discord&margin-h=15)](https://github.com/ahmedrazashaikh0/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedrazashaikh0&theme=discord&margin-h=45)](https://github.com/ahmedrazashaikh0/github-profile-trophy)
 
 - 📫 Reach me **connectwithahmed0@gmail.com**
 
