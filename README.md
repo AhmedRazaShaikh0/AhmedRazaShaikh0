@@ -2,6 +2,7 @@
 <h3 align="center">Front-End Web Developer 👨‍💻</h3>
 
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 Reach me **Ahmedraza6100@gmail.com**
 
